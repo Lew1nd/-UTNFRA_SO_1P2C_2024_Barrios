@@ -1,4 +1,4 @@
- UTNFRA_SO_1P2C_2024_Barriosvagrant@Parcial:~/repogit/UTNFRA_SO_1P2C_2024_Barrios
+UTNFRA_SO_1P2C_2024_Barrios
 Nombre: Tomás
 Apellido: Barrios
 Legajo: 117709
